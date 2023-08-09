@@ -5,5 +5,3 @@ print 'Arsenal Support'
 if game.PlaceId == 286090429 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NullProtector/Deleted/main/SUS%20Osy%20Script"))()
 end
-
-game.Players.LocalPlayer:Kick("We Don't Support This Game :(")
